@@ -1,0 +1,65 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+
+table {
+    padding: 0px 0px;
+    margin: 0px 0px;
+    border-bottom: 1px solid black;
+}
+	
+tr{
+    width:auto;
+    height:30px;
+    border-right: 1px solid black;
+    padding: 0px 0px;
+    margin: 0px 0px;
+}
+
+td{
+    width: 200px;
+    height: 30px;
+    border-right: 1px solid black;
+    padding: 4px 5px;
+    margin: 0px 0px;
+    
+}
+
+
+tr:nth-child(2n+1){
+    background-color:#ddeedd;
+    padding: 0px 0px;
+    margin: 0px 0px;
+}
+
+.maintr {
+    background-color:#00cc00;
+    border-bottom: 1px solid black;
+    border-right: 1px solid black;
+    color: white;
+    height: 30px
+    padding: 0px 0px;
+    margin: 0px 0px;
+    
+}
+
+.tr2 {
+    
+    width:30px;
+    padding: px 5px;
+    margin: 0px 0px;
+}
+
+img {
+    widows: 10px;
+    height: 15px;
+    margin-right: 10px;
+    display: inline;
+}
+
+p {
+    text-transform: capitalize;
+    display: inline;
+}
+

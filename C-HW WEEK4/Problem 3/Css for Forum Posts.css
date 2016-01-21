@@ -1,0 +1,38 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {background:#999999;}
+ 
+.header { 
+
+      text-align:center;
+        }
+ 
+ h1{
+     color:#FFFFCC;
+
+   }
+ 
+ ul{ 
+     list-style-type:none; margin:0% 0% 0% 43%;
+   }
+
+.line{
+    
+    border-bottom: 1px solid #FFFFFF;
+}
+ 
+ ul li a{
+     
+     text-decoration:none; color:#FFFFFF;
+     } 
+ 
+ a:hover{ 
+     
+      background:#E1DBDB;
+     
+      }
+ 
+ 
+ 
+ 

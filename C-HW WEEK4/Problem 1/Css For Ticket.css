@@ -1,0 +1,73 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+    margin: 0px 0px;
+    padding: 0px 0px;
+    
+}
+
+
+
+table {
+    
+      width:500px;
+       height:auto;
+       background:#666262;
+       padding: 5px 5px;
+       margin: 0px 0px;
+   }
+
+tr { padding: 0px 0px;
+      margin: 0px 0px;
+    
+}
+
+td {
+    
+    width: 50px;
+    margin: 0px 0px;
+    
+}
+
+.left_td {
+	text-transform:capitalize;
+	color:#F5F5F5;
+	font-style:italic;
+	font-size:18px;
+    padding: 0px 0px;
+    margin: 0px 0px;
+}
+
+.graa{
+    padding: 0px 0px;
+    margin: 0px 0px;
+	color:#A09E9E;
+	font-size:24px;
+	font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+    
+	} 
+	  
+.yel {
+	color:#F4E40D;
+		font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+      padding: 0px 0px;
+    margin: 0px 0px;
+}
+.red {
+	color:#CF1417;
+		font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+    padding: 0px 0px;
+    margin: 0px 0px;
+}
+.gra {
+	color:#A09E9E;
+		font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+    padding: 0px 0px;
+}
+.bro {
+	color:#BD7315;
+		font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+    padding: 0px 0px;
+    margin: 0px 0px;
+}
